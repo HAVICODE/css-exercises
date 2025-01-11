@@ -1,8 +1,9 @@
-.bt1 {
+.bt.bt1 {
     background-color: black;
     color: white;
 }
 
-.bt2 {
+.bt.bt2 {
     background-color: yellow;
 }
+
